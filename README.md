@@ -12,10 +12,8 @@
   <br>
 </h1>
 
----
-
 #### What is this?
-Sankaku.py is a Python API for communicating with Sankaku Complex's Servers while pretending that you're an App User. This is mostly accomplished by spoofing Device Configuration Headers, while objectifying and organizing Amino Response Data, so that actually doing anything is easier.
+Sankaku.py is a Python API for communicating with Sankaku Complex's Servers while pretending that you're an App User. This is mostly accomplished by spoofing Device Configuration Headers, while objectifying and organizing Sankaku's Response Data, so that actually doing anything is easier.
 
 
 #### How do I use this?
