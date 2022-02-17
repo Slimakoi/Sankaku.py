@@ -19,7 +19,7 @@ Sankaku.py is a Python API for communicating with Sankaku Complex's Servers whil
 #### How do I use this?
 Python 3.8 is the recommended version for Sankaku.py, only supports Python 3.x.
 
-To install Amino.py, run `python3 -m pip install sankaku.py`.
+To install Sankaku.py, run `python3 -m pip install sankaku.py`.
 - **NOTE:** MAKE SURE YOU TYPE `sankaku.py` **NOT** `sankaku` AS IT WILL INSTALL THE **WRONG** PACKAGE!
 
 
